@@ -1,10 +1,9 @@
-### Hi there 👋, My Name is Nuruzzaman
+### Hi 👋, My Name is Nuruzzaman
 #### I am a Front-End Web Developer.
 I'm very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success. I have completed some project during my training season. I enjoy every step of the work process, from discussion and collaboration.
 
 Skills: HTML / CSS / Jqery / Wordpress / Photoshop / MS Office
 
-- 🔭 I’m currently working on this page. 
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/nuruzzaman-pfy)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/nuruzzaman-pfy-098054233//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/nuruzzamanpfy)  
@@ -14,6 +13,5 @@ Skills: HTML / CSS / Jqery / Wordpress / Photoshop / MS Office
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nuruzzaman-pfy)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nuruzzaman-pfy&show_icons=true&count_private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/nuruzzaman-pfy)  
+ 
 
