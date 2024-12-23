@@ -1,6 +1,6 @@
 ### Hi there 👋, My Name is Nuruzzaman
 #### I am a Front-End Web Developer.
-I am a Front-End Web Developer. I'm very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success. I have completed some project during my training season. I enjoy every step of the work process, from discussion and collaboration.
+I'm very passionate and dedicated to my work. I have acquired the skills and knowledge necessary to make your project a success. I have completed some project during my training season. I enjoy every step of the work process, from discussion and collaboration.
 
 Skills: HTML / CSS / Jqery / Wordpress / Photoshop / MS Office
 
